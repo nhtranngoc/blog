@@ -23,7 +23,7 @@ Shortly after, I had to move and with heavy stomach, I took apart the contraptio
 ## Mark II
 After moving back to Vietnam, I came across this old Sharp rice cooker at a flea market. It's fully functional, and for the low low price of 200,000 VND ($8.65, what a steal!) 
 
-![From left to right: lid, body, bottom](assets/sousvide/new_disassemble.jpg)
+![From left to right: lid, body, bottom](assets/sousvide/new_disassembled.jpg)
 _From left to right: lid, body, bottom_
 
 New models go for [1.490.000 VND](https://mediamart.vn/noi-com-dien/sharp/noi-com-dien-18l-ks-zt18.htm) ($64!!!) 
