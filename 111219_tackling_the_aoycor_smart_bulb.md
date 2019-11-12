@@ -131,4 +131,4 @@ scandone
 
 Success! The output identifies itself as an ESP device, printed out the product key, gave us channels for the LEDs (R, G, B, CW and WW). It also states that the firmware is a `tuya`, which makes it possible to reflash this using [tuya-convert](https://github.com/ct-Open-Source/tuya-convert), an utility used to reflash tuya based devices. 
 
-That's all for now, folks! Up next, I will try and modify the diyHue firmware to make it work with this one. Wish me luck!.
+That's all for now, folks! Up next, I will try and modify the diyHue firmware to make it work with this one. Wish me luck!.	
