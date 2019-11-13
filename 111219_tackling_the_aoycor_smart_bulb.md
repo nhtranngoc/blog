@@ -24,8 +24,7 @@ Taking off the top reveals two PCB, the green one looks like power management an
 
 ![Top view](assets/smartbulb/esp-top.jpg)_Top view_
 
-A closer inspection shows us that [![it's the one we're looking for!]]((http://img.youtube.com/vi/PDZcqBgCS74/0.jpg)](http://www.youtube.com/watch?v=PDZcqBgCS74)
-)
+A closer inspection shows us that [![it's the one we're looking for!](http://img.youtube.com/vi/PDZcqBgCS74/0.jpg)](http://www.youtube.com/watch?v=PDZcqBgCS74)
 
 The markings gave us [ESP8266-EX](https://www.espressif.com/sites/default/files/documentation/0a-esp8266ex_datasheet_en.pdf), a QFN32 package version of the usual ESP chip. I suspect they went with this one for sizing reasons all the while wanting to keep the price low. Knowing this I suspect I could find an even cheaper version of the bulb (that's not on Amazon) however I'm not much one for waiting for cool electronic gadgets, so Amazon will have to do. 
 
@@ -51,11 +50,13 @@ Hooking the board up to an FTDI chip and we're good to go. The ESP8266 operates 
 
 Our connection is: 
 
+```
 White 		-> Rx
 Blue 		-> Tx
 Red 		-> Vcc
 Black		-> GND
 Red & white -> Reset (GPIO0)
+```
 
 ```
 scandone
